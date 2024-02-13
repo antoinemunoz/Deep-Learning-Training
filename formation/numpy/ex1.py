@@ -1,3 +1,5 @@
+#source : https://www.youtube.com/watch?v=NzDQTrqsxas&list=PLO_fdPEVlfKqMDNmCFzQISI2H_nJcEDJq&index=10
+
 import numpy as np
 
 def initialisation(m, n):
