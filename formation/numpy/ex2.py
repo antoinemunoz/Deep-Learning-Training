@@ -13,7 +13,6 @@ def zoom(image, factor):
 
 def main():
     face = misc.face(gray=True)
-    plt.imshow(face, cmap=plt.cm.gray)
     zoom(face, 0.25)
 
 if __name__ == "__main__":
